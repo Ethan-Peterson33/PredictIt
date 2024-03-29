@@ -32,8 +32,8 @@ def pipeline():
   print('inserted new data into main table')
 
 # Define your scheduled execution times
-scheduled_time1 = datetime.time(8, 55)  # 8:55 UTC
-scheduled_time2 = datetime.time(19,11)  # 16:55 UTC
+scheduled_time1 = datetime.time(8, 00)  # 8:00 UTC
+scheduled_time2 = datetime.time(19, 00)  # 16:00 UTC
 
 def main():
     while True:

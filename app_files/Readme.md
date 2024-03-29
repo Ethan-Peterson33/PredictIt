@@ -2,7 +2,7 @@ Instructions
 
 Add your service account key file to keys/keys.json
 
-Update your projectid 
+Update your projectid in the variables, also update the project on the query to your project 
 
 Everything else should be set up correctly with the terraform statement and dependencies from the instructions.
 

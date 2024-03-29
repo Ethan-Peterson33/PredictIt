@@ -1,0 +1,346 @@
+27/03/2024 23:20:56 Log Entry Here.
+28/03/2024 00:15:38 Log Entry Here.
+28/03/2024 00:15:38 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 00:15:38 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 00:15:38 Contracts.csv downloaded.
+28/03/2024 00:15:38 Markets.csv downloaded
+28/03/2024 00:17:51 Log Entry Here.
+28/03/2024 00:17:51 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 00:17:51 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 00:17:51 Contracts.csv downloaded.
+28/03/2024 00:17:51 Markets.csv downloaded
+28/03/2024 10:30:42 Log Entry Here.
+28/03/2024 10:30:42 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:30:42 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:30:42 Contracts.csv downloaded.
+28/03/2024 10:30:42 Markets.csv downloaded
+28/03/2024 10:31:03 Log Entry Here.
+28/03/2024 10:31:03 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:31:04 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:31:04 Contracts.csv downloaded.
+28/03/2024 10:31:04 Markets.csv downloaded
+28/03/2024 10:31:04 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:31:04 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:31:04 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:31:04 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:31:04 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:31:04 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:31:04 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 886
+28/03/2024 10:31:19 Log Entry Here.
+28/03/2024 10:31:19 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:31:20 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:31:20 Contracts.csv downloaded.
+28/03/2024 10:31:20 Markets.csv downloaded
+28/03/2024 10:31:20 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:31:20 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:31:20 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:31:20 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:31:20 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:31:20 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:31:20 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 886
+28/03/2024 10:31:20 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:31:20 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:31:20 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:31:20 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:31:20 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:31:20 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:31:20 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 877
+28/03/2024 10:32:51 Log Entry Here.
+28/03/2024 10:32:51 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:32:51 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:32:51 Contracts.csv downloaded.
+28/03/2024 10:32:51 Markets.csv downloaded
+28/03/2024 10:32:51 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:32:51 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:32:51 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:32:51 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:32:51 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:32:51 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:32:51 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:32:51 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:32:51 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:32:51 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:32:51 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:32:51 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:32:52 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:32:52 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:35:42 Log Entry Here.
+28/03/2024 10:35:42 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:35:42 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:35:43 Contracts.csv downloaded.
+28/03/2024 10:35:43 Markets.csv downloaded
+28/03/2024 10:35:43 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:35:43 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:35:43 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:35:43 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:35:43 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:35:43 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:35:43 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:35:43 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:35:43 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:35:43 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:35:43 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:35:43 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:35:43 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:35:43 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:36:02 Log Entry Here.
+28/03/2024 10:36:02 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:36:02 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:36:02 Contracts.csv downloaded.
+28/03/2024 10:36:02 Markets.csv downloaded
+28/03/2024 10:36:02 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:36:02 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:36:02 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:36:02 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:36:02 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:36:02 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:36:03 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:36:03 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:36:03 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:36:03 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:36:03 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:36:03 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:36:03 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:36:03 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:36:35 Log Entry Here.
+28/03/2024 10:36:35 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:36:35 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:36:35 Contracts.csv downloaded.
+28/03/2024 10:36:35 Markets.csv downloaded
+28/03/2024 10:36:35 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:36:35 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:36:35 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:36:35 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:36:35 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:36:35 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:36:35 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:36:35 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:36:35 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:36:35 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:36:35 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:36:35 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:36:35 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:36:36 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:36:36 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 10:36:36 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:36:36 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:36:36 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:36:36 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:36:36 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:36:36 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:36:36 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/abac56f8-e267-4a12-8d21-1798055a09f3?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:36:36 Retrying due to , sleeping 0.6s ...
+28/03/2024 10:36:37 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/abac56f8-e267-4a12-8d21-1798055a09f3?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:36:37 Retrying due to , sleeping 0.1s ...
+28/03/2024 10:36:37 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/abac56f8-e267-4a12-8d21-1798055a09f3?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:36:37 Retrying due to , sleeping 2.1s ...
+28/03/2024 10:36:39 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/abac56f8-e267-4a12-8d21-1798055a09f3?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:11 Log Entry Here.
+28/03/2024 10:37:11 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:37:11 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:37:11 Contracts.csv downloaded.
+28/03/2024 10:37:11 Markets.csv downloaded
+28/03/2024 10:37:11 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:11 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:11 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:11 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:11 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:37:11 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:37:11 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:37:11 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:11 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:11 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:12 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:12 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:37:12 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:37:12 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:37:12 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 10:37:12 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:12 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:12 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:12 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:12 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:37:12 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:12 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/e57e92b2-902e-400e-9268-7f6da5fee642?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:12 Retrying due to , sleeping 0.6s ...
+28/03/2024 10:37:13 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/e57e92b2-902e-400e-9268-7f6da5fee642?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:13 Retrying due to , sleeping 0.4s ...
+28/03/2024 10:37:13 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/e57e92b2-902e-400e-9268-7f6da5fee642?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:13 Retrying due to , sleeping 1.1s ...
+28/03/2024 10:37:15 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/e57e92b2-902e-400e-9268-7f6da5fee642?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:15 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:15 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:15 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:15 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:15 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:37:15 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:15 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/b5f6b7df-826a-4aa1-abdd-04c018720145?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:15 Retrying due to , sleeping 0.4s ...
+28/03/2024 10:37:16 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/b5f6b7df-826a-4aa1-abdd-04c018720145?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:55 Log Entry Here.
+28/03/2024 10:37:55 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:37:55 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:37:55 Contracts.csv downloaded.
+28/03/2024 10:37:55 Markets.csv downloaded
+28/03/2024 10:37:55 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:55 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:55 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:55 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:55 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:37:55 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:37:56 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:37:56 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:56 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:56 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:56 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:56 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:37:56 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:37:56 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:37:56 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 10:37:56 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:37:56 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:37:56 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:37:56 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:37:56 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:37:57 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:57 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/0cf96116-f2a6-48e6-abc3-55b4cc23e2f1?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:57 Retrying due to , sleeping 0.1s ...
+28/03/2024 10:37:57 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/0cf96116-f2a6-48e6-abc3-55b4cc23e2f1?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:37:57 Retrying due to , sleeping 1.0s ...
+28/03/2024 10:37:58 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/0cf96116-f2a6-48e6-abc3-55b4cc23e2f1?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:38 Log Entry Here.
+28/03/2024 10:45:38 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:45:38 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:45:38 Contracts.csv downloaded.
+28/03/2024 10:45:38 Markets.csv downloaded
+28/03/2024 10:45:38 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:45:38 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:45:38 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:45:38 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:45:38 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:45:38 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:45:39 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:45:39 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:45:39 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:45:39 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:45:39 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:45:39 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:45:39 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:45:39 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:45:39 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 10:45:39 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:45:39 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:45:39 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:45:39 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:45:39 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:45:40 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:40 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/a8ca9721-1809-45f5-831a-765b0be85d03?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:40 Retrying due to , sleeping 0.4s ...
+28/03/2024 10:45:40 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/a8ca9721-1809-45f5-831a-765b0be85d03?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:40 Retrying due to , sleeping 1.0s ...
+28/03/2024 10:45:41 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/a8ca9721-1809-45f5-831a-765b0be85d03?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:41 Retrying due to , sleeping 0.3s ...
+28/03/2024 10:45:42 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/a8ca9721-1809-45f5-831a-765b0be85d03?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:42 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:45:42 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:45:42 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:45:42 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:45:42 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:45:42 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:42 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/feb459a0-8b1c-40f4-8d4c-87cd1088b40b?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:42 Retrying due to , sleeping 0.4s ...
+28/03/2024 10:45:43 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/feb459a0-8b1c-40f4-8d4c-87cd1088b40b?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:43 Retrying due to , sleeping 0.1s ...
+28/03/2024 10:45:43 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/feb459a0-8b1c-40f4-8d4c-87cd1088b40b?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:43 Retrying due to , sleeping 0.1s ...
+28/03/2024 10:45:43 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/feb459a0-8b1c-40f4-8d4c-87cd1088b40b?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:43 Retrying due to , sleeping 0.2s ...
+28/03/2024 10:45:43 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/feb459a0-8b1c-40f4-8d4c-87cd1088b40b?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:45:43 Retrying due to , sleeping 3.3s ...
+28/03/2024 10:45:47 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/feb459a0-8b1c-40f4-8d4c-87cd1088b40b?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:42 Log Entry Here.
+28/03/2024 10:47:42 Starting new HTTPS connection (1): www.predictit.org:443
+28/03/2024 10:47:42 https://www.predictit.org:443 "GET /api/marketdata/all/ HTTP/1.1" 200 None
+28/03/2024 10:47:43 Contracts.csv downloaded.
+28/03/2024 10:47:43 Markets.csv downloaded
+28/03/2024 10:47:43 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:47:43 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:47:43 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:47:43 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:47:43 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:47:43 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:47:43 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 878
+28/03/2024 10:47:43 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:47:43 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:47:43 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:47:43 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:47:43 Starting new HTTPS connection (1): storage.googleapis.com:443
+28/03/2024 10:47:43 https://storage.googleapis.com:443 "GET /storage/v1/b/predictit_data_dezoomcamp?projection=noAcl&prettyPrint=false HTTP/1.1" 200 644
+28/03/2024 10:47:43 https://storage.googleapis.com:443 "POST /upload/storage/v1/b/predictit_data_dezoomcamp/o?uploadType=multipart HTTP/1.1" 200 869
+28/03/2024 10:47:43 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 10:47:43 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:47:43 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:47:43 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:47:43 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:47:43 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:47:44 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:44 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/3f4946e6-8ae3-430b-bb90-9c947090f462?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:44 Retrying due to , sleeping 0.7s ...
+28/03/2024 10:47:45 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/3f4946e6-8ae3-430b-bb90-9c947090f462?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:45 Retrying due to , sleeping 0.0s ...
+28/03/2024 10:47:45 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/3f4946e6-8ae3-430b-bb90-9c947090f462?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:45 Retrying due to , sleeping 1.9s ...
+28/03/2024 10:47:47 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/3f4946e6-8ae3-430b-bb90-9c947090f462?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:47 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:47:47 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 10:47:47 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 10:47:47 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 10:47:47 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:47:47 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:47 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/dbb1a49d-d920-4b26-bdb9-b891e8730e44?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:47 Retrying due to , sleeping 0.1s ...
+28/03/2024 10:47:48 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/dbb1a49d-d920-4b26-bdb9-b891e8730e44?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:48 Retrying due to , sleeping 1.3s ...
+28/03/2024 10:47:49 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/dbb1a49d-d920-4b26-bdb9-b891e8730e44?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:47:49 Retrying due to , sleeping 2.0s ...
+28/03/2024 10:47:51 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/dbb1a49d-d920-4b26-bdb9-b891e8730e44?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 10:59:40 Log Entry Here.
+28/03/2024 10:59:54 Log Entry Here.
+28/03/2024 10:59:54 Checking None for explicit credentials as part of auth process...
+28/03/2024 10:59:54 Checking Cloud SDK credentials as part of auth process...
+28/03/2024 10:59:54 Cloud SDK credentials not found on disk; not using them
+28/03/2024 10:59:54 Making request: GET http://169.254.169.254
+28/03/2024 10:59:54 Making request: GET http://metadata.google.internal/computeMetadata/v1/project/project-id
+28/03/2024 10:59:54 Making request: GET http://metadata.google.internal/computeMetadata/v1/universe/universe_domain
+28/03/2024 10:59:54 Starting new HTTP connection (1): metadata.google.internal:80
+28/03/2024 10:59:54 http://metadata.google.internal:80 "GET /computeMetadata/v1/universe/universe_domain HTTP/1.1" 404 1604
+28/03/2024 10:59:54 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 10:59:54 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 10:59:54 Making request: GET http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/default/?recursive=true
+28/03/2024 10:59:54 Starting new HTTP connection (1): metadata.google.internal:80
+28/03/2024 10:59:54 http://metadata.google.internal:80 "GET /computeMetadata/v1/instance/service-accounts/default/?recursive=true HTTP/1.1" 200 407
+28/03/2024 10:59:54 Making request: GET http://metadata.google.internal/computeMetadata/v1/instance/service-accounts/209688615323-compute@developer.gserviceaccount.com/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform
+28/03/2024 10:59:54 http://metadata.google.internal:80 "GET /computeMetadata/v1/instance/service-accounts/209688615323-compute@developer.gserviceaccount.com/token?scopes=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform HTTP/1.1" 200 1083
+28/03/2024 10:59:54 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 10:59:54 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 11:01:52 Log Entry Here.
+28/03/2024 11:02:25 Log Entry Here.
+28/03/2024 11:02:25 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 11:02:25 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 11:02:25 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 11:02:25 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 11:02:25 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 11:02:25 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 11:02:26 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 11:02:28 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/queries/39a477f8-7b43-42ed-99cd-3526ccd0f44e?maxResults=0&location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 11:02:28 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/39a477f8-7b43-42ed-99cd-3526ccd0f44e?location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 11:03:14 Log Entry Here.
+28/03/2024 11:03:14 This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get BigQuery Tracing data.
+28/03/2024 11:03:14 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+28/03/2024 11:03:14 Making request: POST https://oauth2.googleapis.com/token
+28/03/2024 11:03:14 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+28/03/2024 11:03:14 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+28/03/2024 11:03:14 Starting new HTTPS connection (1): bigquery.googleapis.com:443
+28/03/2024 11:03:15 https://bigquery.googleapis.com:443 "POST /bigquery/v2/projects/predict-it-dezoomcamp/jobs?prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 11:03:17 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/queries/c3e68228-f1bb-41a9-8ade-2f9b4d9ffcbb?maxResults=0&location=US&prettyPrint=false HTTP/1.1" 200 None
+28/03/2024 11:03:17 https://bigquery.googleapis.com:443 "GET /bigquery/v2/projects/predict-it-dezoomcamp/jobs/c3e68228-f1bb-41a9-8ade-2f9b4d9ffcbb?location=US&prettyPrint=false HTTP/1.1" 200 None

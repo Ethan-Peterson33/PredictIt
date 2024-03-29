@@ -38,29 +38,31 @@ markets_schema = [
 
 query = """
 
-CREATE OR REPLACE TABLE `predict-it-dezoomcamp.PredictIt.markets_contracts`
-AS
+insert into predict-it-dezoomcamp.PredictIt.markets_contracts
 SELECT
-    market_id,
-    market,
-    market_name,
-    market_image,
-    url,
-    currentdate,
-    timestamp,
-    market_status,
-    contract_id,
-    contract_image,
-    contract_name,
-    contract_short,
-    contract_status,
-    lasttradeprice,
-    bestbuyyescost,
-    bestbuynocost,
-    bestsellyescost,
-    bestsellnocost,
-    lastcloseprice
-FROM `predict-it-dezoomcamp.dbt_epeterson.fact_markets_contracts`;
-
+    c.market_id,
+    m.name as market,
+    m.name as market_name,
+    m.image as market_image,
+    m.url,
+    CURRENT_DATE() AS currentdate,
+    cast(PARSE_TIMESTAMP("%Y-%m-%dT%H:%M:%E*S",m.timestamp) AS DATETIME) AS timestamp,  -- Convert TIMESTAMP to DATETIME
+    m.status as market_status,
+    c.id as contract_id,
+    c.image as contract_image,
+    c.name as contract_name,
+    c.shortname as contract_short,
+    c.status as contract_status,
+    c.lasttradeprice,
+    c.bestbuyyescost,
+    c.bestbuynocost,
+    c.bestsellyescost,
+    c.bestsellnocost,
+    c.lastcloseprice
+FROM 
+    `predict-it-dezoomcamp.PredictIt.markets` m 
+INNER JOIN 
+    `predict-it-dezoomcamp.PredictIt.contracts` c ON c.market_id = m.id
+        
 
 """

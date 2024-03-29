@@ -1,5 +1,5 @@
 Problem Statement: 
-
+PredictIt show betting markets for current political races.  This project pulls the data from their API twice a day and dumps it in a Bigquery table where you can see the changes over time for each Market.  You can make whatever visualizations you want with Looker studio and switch between the markets to see the current data and how it has changed over time. With the timeseries visualizations you can see the trends or lack of trends between the contracts giving you a good idea of which candidate is predicted to win or which candidate you should to buy shares for to bet on.  This pipeline runs on the cloud with minimal setup and cost.   
 
 
 Instructions:

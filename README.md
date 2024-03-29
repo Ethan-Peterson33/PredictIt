@@ -70,3 +70,11 @@ screen -ls
 and reattach with screen -r  (this reattached the most recent session)
 
 
+
+Dashboard:
+
+Make new 
+
+
+
+

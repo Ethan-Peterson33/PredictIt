@@ -1,4 +1,8 @@
-Vm requirements 
+Problem Statement: 
+
+
+
+Instructions:
 
 from your local machine or where ever you have terraform installed
 
@@ -56,7 +60,7 @@ cd into app_files
 
 run python main.py
 
-**To have this run if you close the SSh session you need to detach the terminal window by hitting Ctrl + A followed by D 
+**To have this run if you close the ssh session you need to detach the terminal window by hitting Ctrl + A followed by D 
 
 
 you can view the session with 

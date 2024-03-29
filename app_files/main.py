@@ -10,7 +10,7 @@ import time
 
 log = "info.log"
 logging.basicConfig(filename=log,level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%d/%m/%Y %H:%M:%S')
-logging.info('Log Entry Here.')
+logging.info('New Session.')
 
 
 current_datetime = datetime.datetime.now()

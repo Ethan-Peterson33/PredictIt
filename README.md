@@ -73,8 +73,17 @@ and reattach with screen -r  (this reattached the most recent session)
 
 Dashboard:
 
-Make new 
-
-
+Looker Studio
+Make new Dataset based on markets_contracts table. 
+See example below for the dashboard to display data. 
+https://lookerstudio.google.com/reporting/029ccbe0-50d7-4a63-94bd-202c3af6e71e
+- Remove Record count from base module. 
+- Add Pie Chart
+  - dimension contract_name
+  - metric lascloseprice
+- Time series
+  - breakdown dimension - contract_name
+  - metric lascloseprice
+- Drag contract_image onto dashboard(make sure you have this field set to the image subtype for the url datatype
 
 
